@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated predictions and processed images
+outputs/
+
+# Local development
+.vscode/
+.DS_Store
+Thumbs.db
